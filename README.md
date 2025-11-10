@@ -53,8 +53,9 @@ def l1_loss(params):
    - Confirms that the found minimum is global.  
 
 # Final Results
+** Asked Format:-**
 \left(t*\cos(28.118422982692°)-e^{0.021388955693\left|t\right|}\cdot\sin(0.3t)\sin(28.118422982692°)+54.901687836154,\ 42+\ t*\sin(28.118422982692°)+e^{0.021388955693\left|t\right|}\cdot\sin(0.3t)\cos(28.118422982692°)\right)
-
+** Visualize here**:- (https://www.desmos.com/calculator/rwbcswk2mz)
 
 **θ = 28.118423074179,  M = 0.021388956654,  X = 54.901722855097,  L₁ = 37865.093837691806**
 
